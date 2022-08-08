@@ -6,6 +6,67 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "vanagila@email.com",
+      "password": "$2a$10$7POeKrYd.WMUJrYUlmvO9eLWW1uioKxNLCxRO9cMK9.fSoXVoWIrC",
+      "id": 2
+    },
+    {
+      "email": "vanagila2@email.com",
+      "password": "$2a$10$nmaP2LtQUP.IfBfDw5cy9uDta5biiDLexvYEb7F/bgQENpRaklo5G",
+      "id": 3
+    },
+    {
+      "email": "vanagila3@email.com",
+      "password": "$2a$10$R9Xa9MvxoAdjPOIVYDKqleqjuUcZ39uivvbkkEDL8ZFMVB3IR9jbG",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "Geladeira",
+      "price": 1000,
+      "category": "Eletrodoméstico",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "name": "Computador",
+      "price": 2000,
+      "category": "Informática",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "name": "Bateria Eletrônica",
+      "price": 2800,
+      "category": "Instrumentos",
+      "userId": 2,
+      "id": 3
+    }
+  ],
+  "onsale": [
+    {
+      "name": "Geladeira",
+      "price": 800,
+      "category": "Eletrodoméstico",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "name": "Computador",
+      "price": 1600,
+      "category": "Informática",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "name": "Bateria Eletrônica",
+      "price": 2800,
+      "category": "Instrumentos",
+      "userId": 2,
+      "id": 3
     }
   ]
 }
